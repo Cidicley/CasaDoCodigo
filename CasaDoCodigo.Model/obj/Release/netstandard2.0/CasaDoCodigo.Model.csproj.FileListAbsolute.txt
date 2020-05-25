@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Cursos\Azure\CodigoFonte\CasaDoCodigo.Model\bin\Release\netstandard2.0\CasaDoCodigo.Model.deps.json
+C:\Users\User\Documents\Cursos\Azure\CodigoFonte\CasaDoCodigo.Model\bin\Release\netstandard2.0\CasaDoCodigo.Model.dll
+C:\Users\User\Documents\Cursos\Azure\CodigoFonte\CasaDoCodigo.Model\bin\Release\netstandard2.0\CasaDoCodigo.Model.pdb
+C:\Users\User\Documents\Cursos\Azure\CodigoFonte\CasaDoCodigo.Model\obj\Release\netstandard2.0\CasaDoCodigo.Model.csprojAssemblyReference.cache
+C:\Users\User\Documents\Cursos\Azure\CodigoFonte\CasaDoCodigo.Model\obj\Release\netstandard2.0\CasaDoCodigo.Model.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Cursos\Azure\CodigoFonte\CasaDoCodigo.Model\obj\Release\netstandard2.0\CasaDoCodigo.Model.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Cursos\Azure\CodigoFonte\CasaDoCodigo.Model\obj\Release\netstandard2.0\CasaDoCodigo.Model.AssemblyInfo.cs
+C:\Users\User\Documents\Cursos\Azure\CodigoFonte\CasaDoCodigo.Model\obj\Release\netstandard2.0\CasaDoCodigo.Model.dll
+C:\Users\User\Documents\Cursos\Azure\CodigoFonte\CasaDoCodigo.Model\obj\Release\netstandard2.0\CasaDoCodigo.Model.pdb

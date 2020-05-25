@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAaks3RxRPzEGJZzpwYNYKlQAAAAACAAAAAAAQZgAAAAEAACAAAADzIlycfC86mOt6c58Pi5E4jga+ekPXvYTjpPn7sHMxHQAAAAAOgAAAAAIAACAAAABMmp1t5tdsMgpn8pXYmSpBXyDNV81psfrLWSNAxmOK0YAAAAA13uDWnJetr3PlWpPVGm7F/5Bycw+TXgr0TC0kBRh1DvCK9nJWa0eO7fwMkECZuZHgD3P5Zfw+f7NgMhX8eLhBQAlyd/K1p76cnrY/gGXABFIVAyI/1dG37rZBFFEjmM4oitnO2HUqThZAnSN/nmocVk4Qeh8sobNpaBi7JrXUl0AAAAD1P1BX7BXMLaxTEXFPTs+K0Bq6wYyF6lgeRI6kutHjuJErWuis56h9oc2DcEnwufSPxFRCP7jb8yIu2AnOXGC8</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="Default">
+      <Value>Data Source=casadocodigosql.database.windows.net;Initial Catalog=CasaDoCodigoDB;Integrated Security=False;User ID=casaDoCodigoWebApp;Password=SuperSecret!;Connect Timeout=30;Encrypt=True;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="CasaDoCodigo.EF.CasaDoCodigoDbContext">
+      <Value>Data Source=casadocodigosql.database.windows.net;Initial Catalog=CasaDoCodigoDB;Integrated Security=False;User ID=casaDoCodigoWebApp;Password=SuperSecret!;Connect Timeout=30;Encrypt=True;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

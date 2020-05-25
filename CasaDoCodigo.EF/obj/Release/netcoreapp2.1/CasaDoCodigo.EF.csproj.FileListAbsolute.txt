@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Cursos\Azure\CodigoFonte\CasaDoCodigo.EF\bin\Release\netcoreapp2.1\CasaDoCodigo.EF.deps.json
+C:\Users\User\Documents\Cursos\Azure\CodigoFonte\CasaDoCodigo.EF\bin\Release\netcoreapp2.1\CasaDoCodigo.EF.dll
+C:\Users\User\Documents\Cursos\Azure\CodigoFonte\CasaDoCodigo.EF\bin\Release\netcoreapp2.1\CasaDoCodigo.EF.pdb
+C:\Users\User\Documents\Cursos\Azure\CodigoFonte\CasaDoCodigo.EF\bin\Release\netcoreapp2.1\CasaDoCodigo.Core.dll
+C:\Users\User\Documents\Cursos\Azure\CodigoFonte\CasaDoCodigo.EF\bin\Release\netcoreapp2.1\CasaDoCodigo.Model.dll
+C:\Users\User\Documents\Cursos\Azure\CodigoFonte\CasaDoCodigo.EF\bin\Release\netcoreapp2.1\CasaDoCodigo.Core.pdb
+C:\Users\User\Documents\Cursos\Azure\CodigoFonte\CasaDoCodigo.EF\bin\Release\netcoreapp2.1\CasaDoCodigo.Model.pdb
+C:\Users\User\Documents\Cursos\Azure\CodigoFonte\CasaDoCodigo.EF\obj\Release\netcoreapp2.1\CasaDoCodigo.EF.csprojAssemblyReference.cache
+C:\Users\User\Documents\Cursos\Azure\CodigoFonte\CasaDoCodigo.EF\obj\Release\netcoreapp2.1\CasaDoCodigo.EF.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Cursos\Azure\CodigoFonte\CasaDoCodigo.EF\obj\Release\netcoreapp2.1\CasaDoCodigo.EF.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Cursos\Azure\CodigoFonte\CasaDoCodigo.EF\obj\Release\netcoreapp2.1\CasaDoCodigo.EF.AssemblyInfo.cs
+C:\Users\User\Documents\Cursos\Azure\CodigoFonte\CasaDoCodigo.EF\obj\Release\netcoreapp2.1\CasaDoCodigo.EF.csproj.CopyComplete
+C:\Users\User\Documents\Cursos\Azure\CodigoFonte\CasaDoCodigo.EF\obj\Release\netcoreapp2.1\CasaDoCodigo.EF.dll
+C:\Users\User\Documents\Cursos\Azure\CodigoFonte\CasaDoCodigo.EF\obj\Release\netcoreapp2.1\CasaDoCodigo.EF.pdb
